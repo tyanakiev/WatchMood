@@ -1,1 +1,1 @@
-# WhatToWatch
+# WatchMood Readme
