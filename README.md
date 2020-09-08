@@ -1,4 +1,4 @@
-# WatchMood Readme
+# WatchMood
 
 ## <img src="images/Movie_1.png" width="40"> &emsp; The Ultimate Movie Search
 
