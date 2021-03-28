@@ -35,5 +35,5 @@ And based on my rating plus my previous top 3 movies to receive new suggestion
 6. Set Google Analytics in order to collect user data;
 7. Work on Search Engine optimization;
 8. Inspection - collect enough information;
-9. Have a bear or two;
+9. Have a beer or two;
 10. Adaptation - make changes starting from step 3;
